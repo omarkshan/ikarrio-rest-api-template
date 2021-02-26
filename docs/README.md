@@ -35,6 +35,18 @@ This is just a mockup API for quicker project start, using `nodeJS` and `express
 `PROD_DATABASE_URI = "<YOUR_PRODUCTION_DATABASE>"`\
 `TEST_DATABASE_URI = "<YOUR_TESTING_DATABASE>"`
 
+## Queries
+
+> `/api/books/`\
+>
+> #### Genre
+>
+> `/query?genre=<GENRE>`\
+> Genre options:\
+> `Fantasy`
+
+> For demonstration queries are only applied on the genre property for each book.
+
 # Testing
 
 The API includes the following testing libraries
