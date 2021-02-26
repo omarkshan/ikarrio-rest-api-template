@@ -22,13 +22,6 @@ This is just a mockup API for quicker project start, using `nodeJS` and `express
 > sinon\
 > supertest
 
-Just use
-`npm i` or `npm install`
-
-# Documentation
-
-using docsify cli
-
 # Usage
 
 ## Architecture
@@ -46,6 +39,26 @@ using docsify cli
 
 The API includes the following testing libraries
 
+> `sinon` for creating mock onjects\
 > `mocha` for unit tests\
 > `should` as the assertion library\
 > `supertest` for e2e testing (integration testing)
+
+# References
+
+||| <strong>&#9888; Delete this section on Production</strong>
+
+#### Docsify
+
+> `https://docsify.js.org/#/?id=docsify`
+
+#### Scripts
+
+> Install Packages\
+> `npm i` or `npm install`\
+> <br/>
+> Run Dev Server\
+> `npm run dev` \
+> <br/>
+> Launch Docsify\
+> `npm run docsify`
