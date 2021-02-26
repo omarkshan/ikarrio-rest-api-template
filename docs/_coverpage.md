@@ -4,7 +4,7 @@
 
 > [Github](https://github.com/omarkshan/ikarrio-rest-api-template)\
 > <br/>
-> Scroll Down
+> <small>Scroll Down</small>
 
 <!-- background color -->
 
