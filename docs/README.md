@@ -37,7 +37,7 @@ This is just a mockup API for quicker project start, using `nodeJS` and `express
 
 ## Queries
 
-> `/api/books/`\
+> `/api/books/`
 >
 > #### Genre
 >
